@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Velmurugan9566
+- 👋 Hi, I’m @Velmurugan
 - 👀 I’m interested in ...codingggg
-- 🌱 I’m currently learning ...MERN web development and AI tools
+- 🌱 I’m currently learning ...Power BI development with AI.
+- ⭐ I'm MERN FULLSTACK developer.
+- 🍃 Little bit Knowledge in IOT platform. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 📱: 9566862480 📬:m.velmuruga95@gmail.com
 - 😄 Pronouns: ...VEL'Z
